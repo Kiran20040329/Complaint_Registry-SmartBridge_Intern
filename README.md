@@ -108,7 +108,7 @@ ResolveNow/
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/ResolveNow.git
 cd ResolveNow
 
@@ -156,4 +156,5 @@ This project is open-source and available under the MIT License.
 
 👨‍💻 Author
 💡 Kiran Kumar
+
 
